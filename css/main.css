@@ -14,3 +14,18 @@ body{
 .py-3{
     color: black;
 }
+
+.navbar-brand{
+    color: white;
+}
+
+nav .navbar-nav li a{
+    background-color: #e9ecef;
+    color: black !important;
+}
+
+.nav-item a:hover {
+    color: #e9ecef !important;
+    background-color: black;
+    cursor: pointer;
+}
